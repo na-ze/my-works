@@ -1,0 +1,15 @@
+guidata==2.3.1
+guiqwt==4.3.3
+numpy==1.25.0
+packaging==23.1
+Pillow==9.5.0
+pyqt-tools==1.0.0
+PyQt5==5.15.9
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.12.1
+PyQt6==6.5.1
+PyQt6-Qt6==6.5.1
+PyQt6-sip==13.5.1
+PythonQwt==0.10.2
+QtPy==2.3.1
+scipy==1.11.0

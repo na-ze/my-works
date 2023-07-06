@@ -1,0 +1,1 @@
+pyinstaller -F -i "/PATH/TO/ICO/ico.ico" main.py
